@@ -33,7 +33,7 @@ I’m **Saib Chibole Anakala**, a medical student (MBChB with IT) at Maseno Univ
 ## 📬 Contact
 
 - 📧 Email: [anakalasaib@gmail.com](mailto:anakalasaib@gmail.com)
-- 🔗 LinkedIn: [linkedin.com/in/YOUR_USERNAME](https://linkedin.com/in/YOUR_USERNAME)
+- 🔗 LinkedIn: [linkedin.com/in/saib-anakala-4105242a6]
 - 📄 Download My CV: [cv.pdf](cv.pdf)
 
 
